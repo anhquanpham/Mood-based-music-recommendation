@@ -39,6 +39,6 @@ Detailed demonstration video: https://youtu.be/VKoV5dypCJY
 
 ## References
 1. Chollet, F. and others. (2015). Keras. Retrieved from https://keras.io
-2. Bradski, G. (2000). The OpenCV Library. Dr. Dobb's Journal of Software Tools.
+2. Bradski, G. (2000). The OpenCV Library. Dr. Dobb's Journal of Software Tools. https://opencv.org/ 
 3. Streamlit. (n.d.). Streamlit. Retrieved from https://streamlit.io
 4. Google LLC. (2021). MediaPipe. Retrieved from https://developers.google.com/mediapipe 
