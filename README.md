@@ -20,7 +20,7 @@ This system has potential applications in areas such as music therapy, where mus
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt` in the project directory.
-3. Run the `data_collection.py` script to collect data for training the model.
+3. Run the `data_collection.py` script to collect data for training the model. You can train additional moods yourself. You can check on how to do it in the demonstration video.
 4. Run the `data_training.py` script to train the model on the collected data.
 5. Run the `main.py` script to start the Streamlit-based user interface.
 
@@ -32,4 +32,13 @@ This system has potential applications in areas such as music therapy, where mus
 4. Enter your preferred language and artists in the text input fields. Press Enter after each field.
 5. Once both fields are filled, there will be a camera video to detect your mood.
 6. Once the mood is detected, click the "Song recommendation" button to open YouTube search results for songs in your specified language and by your specified singer that match the detected mood.
+
+
 Detailed demonstration video: https://youtu.be/VKoV5dypCJY 
+
+
+## References
+1. Chollet, F. and others. (2015). Keras. Retrieved from https://keras.io
+2. Bradski, G. (2000). The OpenCV Library. Dr. Dobb's Journal of Software Tools.
+3. Streamlit. (n.d.). Streamlit. Retrieved from https://streamlit.io
+4. Google LLC. (2021). MediaPipe. Retrieved from https://developers.google.com/mediapipe 
