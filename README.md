@@ -42,3 +42,7 @@ Detailed demonstration video: https://youtu.be/VKoV5dypCJY
 2. Bradski, G. (2000). The OpenCV Library. Dr. Dobb's Journal of Software Tools. https://opencv.org/ 
 3. Streamlit. (n.d.). Streamlit. Retrieved from https://streamlit.io
 4. Google LLC. (2021). MediaPipe. Retrieved from https://developers.google.com/mediapipe 
+5. Nakashima, W. (n.d.). Streamlit Webrtc. Retrieved from https://github.com/whitphx/streamlit-webrtc
+6. Python Software Foundation. (n.d.). Webbrowser - Convenient Web-browser controller. Retrieved from https://docs.python.org/3/library/webbrowser.html
+7. PyAV Developers. (n.d.). PyAV. Retrieved from https://pyav.org/
+8. Python Software Foundation. (n.d.). OS - Miscellaneous operating system interfaces. Retrieved from https://docs.python.org/3/library/os.html
